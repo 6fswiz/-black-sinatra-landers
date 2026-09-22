@@ -1,2 +1,2 @@
-# -black-sinatra-landers
+# black-sinatra-landers
     Black Sinatra landing pages and campaign assets
